@@ -1,6 +1,6 @@
 {
-  "name": "chromablend",
-  "displayName": "Chromablend",
+  "name": "ChromaBlend",
+  "displayName": "ChromaBlend",
   "description": "This is dark light theme for chromablend",
   "icon": "images/logo.png",
   "version": "1.0.2",
@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "coder coder dark",
+        "label": "ChromaBlend",
         "uiTheme": "vs-dark",
         "path": "./themes/coder coder dark-color-theme.json"
       }
