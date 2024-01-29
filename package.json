@@ -1,8 +1,9 @@
 {
   "name": "chromablend",
-  "displayName": "BamaCharanChhandogi",
+  "displayName": "Chromablend",
   "description": "This is dark light theme for chromablend",
-  "version": "1.0.0",
+  "icon": "images/logo.png",
+  "version": "1.0.2",
   "publisher": "BamaCharanChhandogi",
   "repository": {
     "type": "git",
