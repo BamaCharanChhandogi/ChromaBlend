@@ -1,7 +1,7 @@
 {
   "name": "ChromaBlend",
   "displayName": "ChromaBlend",
-  "description": "This is dark light theme for chromablend",
+  "description": "This is dark light theme for ChromaBlend",
   "icon": "images/logo.png",
   "version": "1.0.3",
   "publisher": "BamaCharanChhandogi",
@@ -26,7 +26,7 @@
       {
         "label": "ChromaBlend",
         "uiTheme": "vs-dark",
-        "path": "./themes/coder coder dark-color-theme.json"
+        "path": "./themes/ChromaBlend-color-theme.json"
       }
     ]
   }
