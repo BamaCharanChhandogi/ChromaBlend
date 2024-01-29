@@ -1,0 +1,32 @@
+{
+  "name": "chromablend",
+  "displayName": "BamaCharanChhandogi",
+  "description": "This is dark light theme for chromablend",
+  "version": "1.0.0",
+  "publisher": "BamaCharanChhandogi",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "chromablend"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "coder coder dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coder coder dark-color-theme.json"
+      }
+    ]
+  }
+}
