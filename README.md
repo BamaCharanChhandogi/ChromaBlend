@@ -2,7 +2,7 @@
 
 ChromaBlend is a vibrant and dynamic Visual Studio Code theme that blends the colors of green, pink, and blue to create a unique coding experience. Dive into a visually appealing environment that balances aesthetics with readability.
 
-![ChromaBlend Preview](screenshots/chromablend-preview.png)
+![ChromaBlend Preview](images/screen.png)
 
 ## Features
 
@@ -14,7 +14,7 @@ ChromaBlend is a vibrant and dynamic Visual Studio Code theme that blends the co
 
 ## Screenshots
 
-![ChromaBlend](screenshots/chromablend-html.png)
+![Java ChromaBlend](images/screen1.png)
 
 ## Installation
 
