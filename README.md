@@ -1,16 +1,25 @@
-# chromablend README
+# ChromaBlend - VS Code Theme
 
-## Working with Markdown
+ChromaBlend is a vibrant and dynamic Visual Studio Code theme that blends the colors of green, pink, and blue to create a unique coding experience. Dive into a visually appealing environment that balances aesthetics with readability.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![ChromaBlend Preview](screenshots/chromablend-preview.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features
 
-## For more information
+- **Dynamic Color Blend:** Enjoy a harmonious mix of green, pink, and blue colors that adapt to create an engaging coding environment.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Readability:** The theme is designed to prioritize code readability, ensuring a comfortable and efficient coding experience.
 
-**Enjoy!**
+- **Syntax Highlighting:** ChromaBlend provides syntax highlighting for a wide range of programming languages, making your code visually distinguishable.
+
+## Screenshots
+
+![ChromaBlend](screenshots/chromablend-html.png)
+
+## Installation
+
+- first Download [ChromaBlend]()
+- Open Visual Studio Code.
+- Go to View -> Command Palette... or use Ctrl + Shift + P.
+- Type/select Color Theme.
+- Choose ChromaBlend from the list
