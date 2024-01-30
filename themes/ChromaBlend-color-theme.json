@@ -13,7 +13,7 @@
 		"breadcrumb.activeSelectionForeground": "#FF0053",
 		"breadcrumb.background": "#23262E",
 		"breadcrumb.focusForeground": "#D5CED9",
-		"breadcrumb.foreground": "#FF006E",
+		// "breadcrumb.foreground": "#FF006E",
 		"breadcrumbPicker.background": "#23262E",
 		"button.background": "#FF005350",
 		"contrastBorder": "#FF005340",
@@ -46,8 +46,8 @@
 		"editorIndentGuide.activeBackground": "#3A3F4D",
 		"editorIndentGuide.background": "#3A3F4D70",
 		"editorInfo.foreground": "#16B53770",
-		"editorLineNumber.activeForeground": "#16B537",
-		"editorLineNumber.foreground": "#FF0053c0",
+		"editorLineNumber.activeForeground": "#FF0053",
+		// "editorLineNumber.foreground": "#FF0053c0",
 		"editorLink.activeForeground": "#D5CED9",
 		"editorMarkerNavigation.background": "#D5CED905",
 		"editorOverviewRuler.border": "#23262E",
@@ -117,7 +117,7 @@
 		"notifications.background": "#23262E",
 		"notifications.foreground": "#D5CED9",
 		"panel.background": "#23262E",
-		"panel.border": "#0745f060",
+		"panel.border": "#FF0053",
 		"panelTitle.activeBorder": "#FF0053",
 		"panelTitle.activeForeground": "#D3CCD7",
 		"panelTitle.inactiveForeground": "#D5CED9",
@@ -163,8 +163,8 @@
 		"statusBarItem.hoverBackground": "#FF005320",
 		"statusBarItem.remoteBackground": "#FF0053",
 		"statusBarItem.remoteForeground": "#23262E",
-		"tab.activeBackground": "#f7f1f350",
-		// "tab.activeBorder": "#FF0053",
+		// "tab.activeBackground": "#f7f1f302",
+		"tab.activeBorder": "#FF0053",
 		"tab.activeForeground": "#D3CCD7",
 		"tab.activeModifiedBorder": "#FF0053",
 		"tab.border": "#23262E",
@@ -389,7 +389,7 @@
 			"variable.other.property.js"
 		  ],
 		  "settings": {
-			"foreground": "#FF006E",
+			"foreground": "#05d913",
 			"fontStyle": ""
 		  }
 		},
@@ -558,7 +558,7 @@
 			"meta.object-literal.key"
 		  ],
 		  "settings": {
-			"foreground": "#D5CED9"
+			"foreground": "#db05fcf3"
 		  }
 		},
 		{
@@ -566,7 +566,7 @@
 			"source.scss keyword.control"
 		  ],
 		  "settings": {
-			"foreground": "#3780F3"
+			"foreground": "#377ff3e7"
 		  }
 		},
 		{
