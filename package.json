@@ -3,7 +3,7 @@
   "displayName": "ChromaBlend",
   "description": "This is dark light theme for ChromaBlend",
   "icon": "images/logo.png",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "publisher": "BamaCharanChhandogi",
   "repository": {
     "type": "git",
@@ -24,9 +24,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "ChromaBlend",
+        "label": "ChromaBlend Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/ChromaBlend-color-theme.json"
+        "path": "./themes/ChromaBlend-dark-color-theme.json"
+      },
+      {
+        "label": "ChromaBlend Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/ChromaBlend-light-color-theme.json"
       }
     ]
   }
