@@ -1,19 +1,22 @@
 {
   "name": "ChromaBlend",
-  "displayName": "ChromaBlend",
-  "description": "This is dark light theme for ChromaBlend",
+  "displayName": "ChromaBlend - Dynamic Dark & Light Theme",
+  "description": "A vibrant VS Code theme that dynamically blends green, pink, and blue for a unique coding experience. Available in dark and light modes.",
   "icon": "images/logo.png",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "publisher": "BamaCharanChhandogi",
   "repository": {
     "type": "git",
     "url": "https://github.com/BamaCharanChhandogi/chromablend"
   },
   "keywords": [
-    "theme",
-    "dark",
-    "light",
-    "chromablend"
+    "VS Code theme",
+    "dark theme",
+    "light theme",
+    "colorful theme",
+    "vibrant theme",
+    "syntax highlighting",
+    "ChromaBlend"
   ],
   "engines": {
     "vscode": "^1.85.0"
